@@ -1,4 +1,3 @@
-# PORTFOLIO PROJECT 2
 ### Data Visualization with Tableau
 
 This repository is the continuation of the
