@@ -14,3 +14,6 @@ to make the analysis short and meaningful.
 
 Below is the link to the Dashboard of Analysis 
  https://public.tableau.com/app/profile/egunjobi.tunde.fahd/viz/PortfolioProject2_16553235769850/Dashboard1
+
+The DASHBOARD
+![COVID DASHBOARD](https://user-images.githubusercontent.com/105982006/227768291-5723039a-2f3b-4e86-97ac-6f5e080a286d.PNG)
